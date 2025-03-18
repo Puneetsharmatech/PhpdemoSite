@@ -16,8 +16,8 @@
     <h1>Student Information</h1>
     <p>Name: <?php echo $studentName; ?></p>
     <p>Student ID: <?php echo $studentId; ?></p>
-<p>Name: <?php echo $Name; ?></p>
-    <p>Student ID: <?php echo $Id; ?></p>
+    <p>Name: <?php /* echo $Name; */ ?></p>
+    <p>Student ID: <?php /* echo $Id; */ ?></p>
     <p>This lab is being performed without using GitHub Actions.</p>
 </body>
 </html>
